@@ -1,7 +1,9 @@
 {
   "dependencies": {
+    "@vitejs/plugin-react-swc": "^3.9.0",
     "prism-react-renderer": "^2.4.1",
     "prisma": "^5.17.0",
+    "react": "^19.1.0",
     "react-copy-to-clipboard": "^5.1.0"
   },
   "devDependencies": {
